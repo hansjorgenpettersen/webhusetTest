@@ -9,5 +9,4 @@ class WebhusetTestApplicationTests {
     @Test
     fun contextLoads() {
     }
-
 }
